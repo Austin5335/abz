@@ -8,6 +8,8 @@ main()
  int burst[10],wait[10],process[10];
 
  printf("\nProcess Scheduling(SJFS) :\n");
+ 
+ 
 
  printf("\nEnter the number of process : ");
  
